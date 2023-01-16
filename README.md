@@ -29,6 +29,3 @@ Enthusiastic as Image processing Engineer eager to contribute to team success th
 
 <p align="left"> <a href="https://www.github.com/tzelalouzeir" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/tze.ouz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tzelalouzeir" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/tzelalabi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-[![Tzelal's GitHub stats](https://github-readme-stats.vercel.app/api?username=tzelalouzeir)](https://github.com/tzelalouzeir/github-readme-stats)
