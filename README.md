@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tzelal Ouzeir
 =====================================================================================================================================
 
-Jr.Python Programmer (Machine Learning and AI)
+Junior Python Lover(Machine Learning)
 -------------------------------------------
 
 Enthusiastic as Image processing Engineer eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Clear understanding of Mask R-CNN and YOLO and training in Python. Motivated to learn, grow and excel in Data science, Machine Learning.
