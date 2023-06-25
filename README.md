@@ -11,7 +11,7 @@ Enthusiastic as Image processing Engineer eager to contribute to team success th
 * 🧠  I'm learning Machine learning algorithms .
 * 🤝  I'm open to collaborating on Bootcamps, Projects.
 * ⚡  Also I like web scrapping (beautifulsoup4 vs), little bit knowledge about html, css.
-* ⚡  Creating own project tafou.io based on Crypto Technical Analysis with Python
+* 🦊  Creating own project [tafou.io](https://tafou.io) based on Crypto Technical Analysis with Python
 
 ### Skills
 
