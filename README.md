@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Python Lover(Machine Learning)
 -------------------------------------------
 
-Enthusiastic as Image processing Engineer eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Clear understanding of Mask R-CNN and YOLO and training in Python. Motivated to learn, grow and excel in Data science, Machine Learning.
+I am a self-taught professional with a strong background in machine learning, deep learning, and Python programming. I have focused my expertise on technical analysis using Python to identify candle patterns and create well-formatted data. Through my independent work, I have developed proficiency in applying machine learning techniques to the financial domain. Currently, I am working on my own project, tafou.io, where I leverage machine learning models to predict buy and sell signals for traders. I possess hands-on experience with a range of algorithms including time series forecasting (ARIMA, SARIMA, Prophet), decision trees, LSTM, and XGBoost. Despite not having formal work experience, my passion for data science and machine learning fuels my motivation to continually enhance my skills and excel in these fields.
 
 * 🌍  I'm based in  Greece.
 * ✉️  You can contact me at [uzeyir.celal@gmail.com](mailto:uzeyir.celal@gmail.com)
