@@ -28,3 +28,5 @@ I am a self-taught professional with a strong background in machine learning, de
 
 <p align="left"> <a href="https://www.github.com/tzelalouzeir" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tzelalouzeir" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/tzelalabi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
+### Spotify ;)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21l7j7dphpxebrt465sytrtry)
