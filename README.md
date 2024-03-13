@@ -8,7 +8,7 @@ I am a self-taught professional with a strong background in machine learning, de
 * ✉️  You can contact me at [tafousignals@gmail.com](mailto:tafousignals@gmail.com)
 * 🧠  I'm working and learning on Machine learning algorithms.
 * 🤝  I'm open to collaborating on Bootcamps, Projects.
-* ⚡  Also I like web scrapping (beautifulsoup4 vs), little bit knowledge about html, css.
+* ⚡  Also I like web scrapping (beautifulsoup4 vs), knowledge about html, css.
 * 🦊  Creating own project [tafou.io](https://tafou.io) based on Crypto Technical Analysis with Python
 
 ### Skills
