@@ -5,7 +5,7 @@ Data Scientist
 I like to build something.
 
 * ✉️  You can contact me at [tafousignals@gmail.com](mailto:tafousignals@gmail.com)
-* 🦊  Creating own project [tafou.io](https://tafou.io) based on Crypto Technical Analysis with Python
+* 🦊  (CLOSED FOR NOW)Creating own project [tafou.io](https://tafou.io) based on Crypto Technical Analysis with Python
 
 ### Skills
 <div align="left">
